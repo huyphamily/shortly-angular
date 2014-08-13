@@ -17,6 +17,7 @@ Icon
 node_modules/
 db/
 client/lib
-
-
+.floo
+FLOOBITS_README.md
+.gitignore
 
